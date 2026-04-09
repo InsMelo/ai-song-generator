@@ -1,7 +1,8 @@
 # 🎵 InsMelo AI Song Generator
 
 Create full songs from text, lyrics, images, or humming — instantly.
-![InsMelo AI song generator](.assets/insmelo-ai-song-generator-banner.png)
+
+![InsMelo AI song generator](https://github.com/InsMelo/ai-song-generator/blob/main/assets/insmelo-ai-song-generator-banner.png)
 
 👉 Try it now: https://insmelo.com/
 
